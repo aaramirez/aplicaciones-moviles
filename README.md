@@ -18,3 +18,4 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 | 08 | Patrones de arquitectura móvil |
 | 09 | Seguridad móvil |
 | 10 | Pruebas y publicación |
+| 11 | Prompts para generar una app móvil de producción |
